@@ -1,0 +1,23 @@
+#--------------------------------[ Aeon账号 ]----------------------------#
+账号：kumagai1765
+密码：kuma1765
+#--------------------------------[ 信用卡详情 ]----------------------------#
+卡种：信用卡
+卡号：3584199981906504
+日期：06 / 27
+CVV：349
+#--------------------------------[ 个人信息 ]----------------------------#
+名字：熊谷忠
+电话：07014013485
+邮件：kmagai3172@cronos.ocn.ne.jp
+生日年月：1956-07-02
+#--------------------------------[ 指纹信息 ]----------------------------#
+IP Address：118.238.45.78
+IP Region：Tokyo
+IP City：Tokyo
+IP CountryCode：JP
+IP CountryName：Japan
+IP Continent：Asia
+IP Timezone：Asia/Tokyo
+OS/Browser：Windows 10 / Chrome
+User Agent：Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60

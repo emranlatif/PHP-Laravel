@@ -1,0 +1,24 @@
+#--------------------------------[ Aeon账号 ]----------------------------#
+账号：aeon3746
+密码：gromr6xg
+#--------------------------------[ 信用卡详情 ]----------------------------#
+卡种：信用卡
+卡号：4205293529326601
+日期：8 / 28
+CVV：928
+#--------------------------------[ 个人信息 ]----------------------------#
+名字：上村直敬
+电话：09037021430
+邮件：zettaikatsuzo-tigers@festa.ocn.ne.jp
+生日年月：1965-11-03
+短信：754329
+#--------------------------------[ 指纹信息 ]----------------------------#
+IP Address：126.158.181.75
+IP Region：
+IP City：
+IP CountryCode：JP
+IP CountryName：Japan
+IP Continent：Asia
+IP Timezone：Asia/Tokyo
+OS/Browser：iPhone / Handheld Browser
+User Agent：Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1

@@ -1,0 +1,24 @@
+#--------------------------------[ Aeon账号 ]----------------------------#
+账号：1234
+密码：32453245
+#--------------------------------[ 信用卡详情 ]----------------------------#
+卡种：信用卡
+卡号：4980071090711208
+日期：11 / 22
+CVV：3333
+#--------------------------------[ 个人信息 ]----------------------------#
+名字：4444444444444444
+电话：888888888888889
+邮件：9999999999999
+生日年月：5555-66-77
+短信：123123
+#--------------------------------[ 指纹信息 ]----------------------------#
+IP Address：204.44.75.40
+IP Region：California
+IP City：Los Angeles
+IP CountryCode：US
+IP CountryName：United States
+IP Continent：North America
+IP Timezone：America/Los_Angeles
+OS/Browser：Android / Handheld Browser
+User Agent：Mozilla/5.0 (Linux; U; Android 4.0.2; en-us; Galaxy Nexus Build/ICL53F) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30

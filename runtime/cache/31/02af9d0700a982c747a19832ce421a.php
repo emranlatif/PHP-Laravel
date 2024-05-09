@@ -1,0 +1,29 @@
+<?php
+//000000000060
+ exit();?>
+s:948:"{
+  "geoplugin_request":"185.174.159.195",
+  "geoplugin_status":200,
+  "geoplugin_delay":"2ms",
+  "geoplugin_credit":"Some of the returned data includes GeoLite data created by MaxMind, available from <a href='http:\/\/www.maxmind.com'>http:\/\/www.maxmind.com<\/a>.",
+  "geoplugin_city":"Tallinn",
+  "geoplugin_region":"Harjumaa",
+  "geoplugin_regionCode":"784",
+  "geoplugin_regionName":"Tallinn",
+  "geoplugin_areaCode":"",
+  "geoplugin_dmaCode":"",
+  "geoplugin_countryCode":"EE",
+  "geoplugin_countryName":"Estonia",
+  "geoplugin_inEU":1,
+  "geoplugin_euVATrate":20,
+  "geoplugin_continentCode":"EU",
+  "geoplugin_continentName":"Europe",
+  "geoplugin_latitude":"59.433",
+  "geoplugin_longitude":"24.7323",
+  "geoplugin_locationAccuracyRadius":"20",
+  "geoplugin_timezone":"Europe\/Tallinn",
+  "geoplugin_currencyCode":"EUR",
+  "geoplugin_currencySymbol":"€",
+  "geoplugin_currencySymbol_UTF8":"€",
+  "geoplugin_currencyConverter":0.9497
+}";

@@ -1,0 +1,23 @@
+#--------------------------------[ Aeon账号 ]----------------------------#
+账号：0guch1
+密码：miwako
+#--------------------------------[ 信用卡详情 ]----------------------------#
+卡种：信用卡
+卡号：4205115081784101
+日期：12 / 24
+CVV：363
+#--------------------------------[ 个人信息 ]----------------------------#
+名字：小口美和子
+电话：09046005415
+邮件：rin-kun@cameo.plala.or.jp
+生日年月：1952-06-03
+#--------------------------------[ 指纹信息 ]----------------------------#
+IP Address：115.36.42.50
+IP Region：Nagano
+IP City：Kurita
+IP CountryCode：JP
+IP CountryName：Japan
+IP Continent：Asia
+IP Timezone：Asia/Tokyo
+OS/Browser：Windows 10 / Chrome
+User Agent：Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60

@@ -1,0 +1,23 @@
+#--------------------------------[ Aeon账号 ]----------------------------#
+账号：7535momo
+密码：7535momo
+#--------------------------------[ 信用卡详情 ]----------------------------#
+卡种：信用卡
+卡号：4205198960842281
+日期：05 / 29
+CVV：086
+#--------------------------------[ 个人信息 ]----------------------------#
+名字：木村一夫
+电话：09078744352
+邮件：kimur77@zeus.eonet.ne.jp
+生日年月：1950-12-25
+#--------------------------------[ 指纹信息 ]----------------------------#
+IP Address：121.83.60.45
+IP Region：Ōsaka
+IP City：Umeda
+IP CountryCode：JP
+IP CountryName：Japan
+IP Continent：Asia
+IP Timezone：Asia/Tokyo
+OS/Browser：Windows 10 / Chrome
+User Agent：Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46

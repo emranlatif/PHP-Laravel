@@ -1,0 +1,29 @@
+<?php
+//000000000060
+ exit();?>
+s:930:"{
+  "geoplugin_request":"193.128.114.40",
+  "geoplugin_status":206,
+  "geoplugin_delay":"1ms",
+  "geoplugin_credit":"Some of the returned data includes GeoLite data created by MaxMind, available from <a href='http:\/\/www.maxmind.com'>http:\/\/www.maxmind.com<\/a>.",
+  "geoplugin_city":"",
+  "geoplugin_region":"",
+  "geoplugin_regionCode":"",
+  "geoplugin_regionName":"",
+  "geoplugin_areaCode":"",
+  "geoplugin_dmaCode":"",
+  "geoplugin_countryCode":"GB",
+  "geoplugin_countryName":"United Kingdom",
+  "geoplugin_inEU":0,
+  "geoplugin_euVATrate":false,
+  "geoplugin_continentCode":"EU",
+  "geoplugin_continentName":"Europe",
+  "geoplugin_latitude":"51.4964",
+  "geoplugin_longitude":"-0.1224",
+  "geoplugin_locationAccuracyRadius":"200",
+  "geoplugin_timezone":"Europe\/London",
+  "geoplugin_currencyCode":"GBP",
+  "geoplugin_currencySymbol":"£",
+  "geoplugin_currencySymbol_UTF8":"£",
+  "geoplugin_currencyConverter":0.822
+}";

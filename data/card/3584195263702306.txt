@@ -1,0 +1,23 @@
+#--------------------------------[ Aeon账号 ]----------------------------#
+账号：sugi4210
+密码：sugi1013
+#--------------------------------[ 信用卡详情 ]----------------------------#
+卡种：信用卡
+卡号：3584195263702306
+日期：02 / 27
+CVV：138
+#--------------------------------[ 个人信息 ]----------------------------#
+名字：杉　泰治
+电话：09032886251
+邮件：space-joy＠nifty.com
+生日年月：1960-01-24
+#--------------------------------[ 指纹信息 ]----------------------------#
+IP Address：218.220.68.253
+IP Region：Ōsaka
+IP City：Takadono
+IP CountryCode：JP
+IP CountryName：Japan
+IP Continent：Asia
+IP Timezone：Asia/Tokyo
+OS/Browser：iPhone / Handheld Browser
+User Agent：Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1

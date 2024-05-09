@@ -1,0 +1,23 @@
+#--------------------------------[ Aeon账号 ]----------------------------#
+账号：4205204390345943
+密码：ku4110k
+#--------------------------------[ 信用卡详情 ]----------------------------#
+卡种：信用卡
+卡号：4205204390345943
+日期：01 / 28
+CVV：498
+#--------------------------------[ 个人信息 ]----------------------------#
+名字：上田勝彦
+电话：09032645921
+邮件：ukayya411@gmail.com
+生日年月：1954-04-11
+#--------------------------------[ 指纹信息 ]----------------------------#
+IP Address：121.86.175.216
+IP Region：Hyōgo
+IP City：Sannomiyacho
+IP CountryCode：JP
+IP CountryName：Japan
+IP Continent：Asia
+IP Timezone：Asia/Tokyo
+OS/Browser：Windows 10 / Chrome
+User Agent：Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46

@@ -1,0 +1,23 @@
+#--------------------------------[ Aeon账号 ]----------------------------#
+账号：3385ma3393
+密码：3393ma33
+#--------------------------------[ 信用卡详情 ]----------------------------#
+卡种：信用卡
+卡号：4205219790147806
+日期：02 / 25
+CVV：435
+#--------------------------------[ 个人信息 ]----------------------------#
+名字：佐藤廣美
+电话：09067720958
+邮件：afh812316@cma.bbiq.jp
+生日年月：1958-09-03
+#--------------------------------[ 指纹信息 ]----------------------------#
+IP Address：119.47.210.238
+IP Region：Kumamoto
+IP City：Chibajomachi
+IP CountryCode：JP
+IP CountryName：Japan
+IP Continent：Asia
+IP Timezone：Asia/Tokyo
+OS/Browser：Windows 10 / Chrome
+User Agent：Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46

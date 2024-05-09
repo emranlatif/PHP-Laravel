@@ -1,0 +1,24 @@
+#--------------------------------[ Aeon账号 ]----------------------------#
+账号：tuefyozh
+密码：345dfg
+#--------------------------------[ 信用卡详情 ]----------------------------#
+卡种：信用卡
+卡号：4980059731084325
+日期：09 / 28
+CVV：111
+#--------------------------------[ 个人信息 ]----------------------------#
+名字：gosgng laigneg
+电话：09098908776
+邮件：sdsdf2@QQ.COM
+生日年月：1998-09-09
+短信：111111
+#--------------------------------[ 指纹信息 ]----------------------------#
+IP Address：148.109.13.144
+IP Region：Tokyo
+IP City：Tokyo
+IP CountryCode：JP
+IP CountryName：Japan
+IP Continent：Asia
+IP Timezone：Asia/Tokyo
+OS/Browser：iPhone / Handheld Browser
+User Agent：Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1

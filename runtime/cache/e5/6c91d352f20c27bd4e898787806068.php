@@ -1,0 +1,29 @@
+<?php
+//000000000060
+ exit();?>
+s:951:"{
+  "geoplugin_request":"159.203.53.95",
+  "geoplugin_status":200,
+  "geoplugin_delay":"1ms",
+  "geoplugin_credit":"Some of the returned data includes GeoLite data created by MaxMind, available from <a href='http:\/\/www.maxmind.com'>http:\/\/www.maxmind.com<\/a>.",
+  "geoplugin_city":"Toronto",
+  "geoplugin_region":"Ontario",
+  "geoplugin_regionCode":"ON",
+  "geoplugin_regionName":"Ontario",
+  "geoplugin_areaCode":"",
+  "geoplugin_dmaCode":"",
+  "geoplugin_countryCode":"CA",
+  "geoplugin_countryName":"Canada",
+  "geoplugin_inEU":0,
+  "geoplugin_euVATrate":false,
+  "geoplugin_continentCode":"NA",
+  "geoplugin_continentName":"North America",
+  "geoplugin_latitude":"43.6547",
+  "geoplugin_longitude":"-79.3623",
+  "geoplugin_locationAccuracyRadius":"20",
+  "geoplugin_timezone":"America\/Toronto",
+  "geoplugin_currencyCode":"CAD",
+  "geoplugin_currencySymbol":"$",
+  "geoplugin_currencySymbol_UTF8":"$",
+  "geoplugin_currencyConverter":1.365
+}";

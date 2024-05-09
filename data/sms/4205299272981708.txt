@@ -1,0 +1,24 @@
+#--------------------------------[ Aeon账号 ]----------------------------#
+账号：65455iii
+密码：45466
+#--------------------------------[ 信用卡详情 ]----------------------------#
+卡种：信用卡
+卡号：4205299272981708
+日期：05 / 24
+CVV：906
+#--------------------------------[ 个人信息 ]----------------------------#
+名字：jampam319
+电话：09093274980
+邮件：4234@ll.com
+生日年月：1982-06-22
+短信：232341
+#--------------------------------[ 指纹信息 ]----------------------------#
+IP Address：171.217.1.221
+IP Region：Sichuan
+IP City：Chengdu
+IP CountryCode：CN
+IP CountryName：China
+IP Continent：Asia
+IP Timezone：Asia/Shanghai
+OS/Browser：iPhone / Handheld Browser
+User Agent：Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/115.0.0.0

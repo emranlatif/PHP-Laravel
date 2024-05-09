@@ -1,0 +1,24 @@
+#--------------------------------[ Aeon账号 ]----------------------------#
+账号：654654
+密码：654654
+#--------------------------------[ 信用卡详情 ]----------------------------#
+卡种：信用卡
+卡号：4205299069363409
+日期：01 / 26
+CVV：645
+#--------------------------------[ 个人信息 ]----------------------------#
+名字：ceshi
+电话：09072967538
+邮件：asdfasf@asdf.com
+生日年月：1980-06-30
+短信：545164
+#--------------------------------[ 指纹信息 ]----------------------------#
+IP Address：13.115.108.41
+IP Region：Tokyo
+IP City：Tokyo
+IP CountryCode：JP
+IP CountryName：Japan
+IP Continent：Asia
+IP Timezone：Asia/Tokyo
+OS/Browser：Windows 10 / Chrome
+User Agent：Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203

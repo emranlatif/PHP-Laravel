@@ -1,0 +1,24 @@
+#--------------------------------[ Aeon账号 ]----------------------------#
+账号：yuzo7705
+密码：yuzo4555
+#--------------------------------[ 信用卡详情 ]----------------------------#
+卡种：信用卡
+卡号：4205204530957300
+日期：07 / 28
+CVV：114
+#--------------------------------[ 个人信息 ]----------------------------#
+名字：加藤雄三
+电话：09030304687
+邮件：yuzo1127@guitar.ocn.ne.jp
+生日年月：1947-11-27
+短信：412898
+#--------------------------------[ 指纹信息 ]----------------------------#
+IP Address：180.12.143.142
+IP Region：Hyōgo
+IP City：Kobe
+IP CountryCode：JP
+IP CountryName：Japan
+IP Continent：Asia
+IP Timezone：Asia/Tokyo
+OS/Browser：iPhone / Handheld Browser
+User Agent：Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1

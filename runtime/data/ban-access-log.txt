@@ -1,0 +1,43 @@
+BlockCountry|2023-10-16 15:08:30|Windows 10|61.28.172.157|Philippines|PH
+BlockCountry|2023-10-16 15:08:31|Windows 10|61.28.172.157|Philippines|PH
+BlockCountry|2023-10-16 15:10:50|Mac OS X|3.93.31.101|United States|US
+BlockCountry|2023-10-16 15:10:51|Mac OS X|3.93.31.101|United States|US
+BlockCountry|2023-10-16 15:12:28|Windows 10|61.28.172.157|Philippines|PH
+BlockCountry|2023-10-16 15:12:29|Windows 10|61.28.172.157|Philippines|PH
+BlockBot|2023-10-16 15:15:22|Linux|20.76.220.196|Netherlands|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.29 Safari/537.36
+BlockCountry|2023-10-16 15:15:22|Linux|20.76.220.196|Netherlands|US
+BlockBot|2023-10-16 15:18:39|Windows XP|185.100.87.136|Romania|Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+BlockCountry|2023-10-16 15:18:39|Windows 7|205.169.39.164|United States|US
+BlockCountry|2023-10-16 15:18:40|Windows XP|185.100.87.136|Romania|RO
+BlockUa|2023-10-16 15:18:40|Windows XP|185.100.87.136|Romania|mozilla/4.0 (compatible; msie 8.0; windows nt 5.1; trident/4.0; .net clr 1.1.4322; .net clr 2.0.50727; .net clr 3.0.4506.2152; .net clr 3.5.30729)
+BlockCountry|2023-10-16 15:18:41|Windows 7|205.169.39.164|United States|US
+BlockCountry|2023-10-16 15:18:50|Windows 10|60.121.153.40|Japan|JP
+BlockCountry|2023-10-16 15:18:51|Windows 10|60.121.153.40|Japan|JP
+BlockCountry|2023-10-16 15:19:08|Android|60.121.153.40|Japan|JP
+BlockCountry|2023-10-16 15:19:08|Android|60.121.153.40|Japan|JP
+BlockBot|2023-10-16 15:19:24|Linux|65.155.30.101|United States|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/117.0.5938.88 Safari/537.36
+BlockCountry|2023-10-16 15:19:24|Linux|65.155.30.101|United States|US
+BlockBot|2023-10-16 15:19:25|Linux|65.155.30.101|United States|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/117.0.5938.88 Safari/537.36
+BlockCountry|2023-10-16 15:19:25|Linux|65.155.30.101|United States|US
+BlockCountry|2023-10-16 15:19:54|Windows 10|60.121.153.40|Japan|JP
+BlockCountry|2023-10-16 15:19:55|Windows 10|60.121.153.40|Japan|JP
+BlockBot|2023-10-16 15:23:47|Unknown OS Platform|35.195.93.98|Belgium|python-requests/2.31.0
+BlockCountry|2023-10-16 15:23:47|Unknown OS Platform|35.195.93.98|Belgium|EU
+BlockHost|2023-10-16 15:23:48|Unknown OS Platform|35.195.93.98|Belgium|98.93.195.35.bc.googleusercontent.com
+BlockCountry|2023-10-16 15:24:51|Windows XP|216.163.176.191|United States|US
+BlockCountry|2023-10-16 15:24:52|Windows XP|216.163.176.191|United States|US
+BlockCountry|2023-10-16 15:28:24|Windows 7|205.169.39.164|United States|US
+BlockCountry|2023-10-16 15:28:24|Windows 7|205.169.39.164|United States|US
+BlockCountry|2023-10-16 15:28:24|Windows 7|205.169.39.164|United States|US
+BlockCountry|2023-10-16 15:28:24|Windows 7|205.169.39.164|United States|US
+BlockCountry|2023-10-16 15:28:24|Windows 7|205.169.39.164|United States|US
+BlockBot|2023-10-16 15:29:56|Linux|20.76.220.196|Netherlands|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.29 Safari/537.36
+BlockCountry|2023-10-16 15:29:56|Linux|20.76.220.196|Netherlands|US
+BlockCountry|2023-10-16 15:35:11|Windows 10|52.17.54.30|Ireland|IE
+BlockHost|2023-10-16 15:35:11|Windows 10|52.17.54.30|Ireland|ec2-52-17-54-30.eu-west-1.compute.amazonaws.com
+BlockCountry|2023-10-16 15:35:12|Windows 10|52.17.54.30|Ireland|IE
+BlockHost|2023-10-16 15:35:12|Windows 10|52.17.54.30|Ireland|ec2-52-17-54-30.eu-west-1.compute.amazonaws.com
+BlockBot|2023-10-16 15:44:59|Linux|20.76.220.196|Netherlands|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.29 Safari/537.36
+BlockCountry|2023-10-16 15:45:00|Linux|20.76.220.196|Netherlands|US
+BlockBot|2023-10-16 15:45:00|Linux|20.76.220.196|Netherlands|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.29 Safari/537.36
+BlockCountry|2023-10-16 15:45:00|Linux|20.76.220.196|Netherlands|US

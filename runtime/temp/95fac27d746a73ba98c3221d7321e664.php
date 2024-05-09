@@ -1,0 +1,68 @@
+<?php /*a:1:{s:55:"/www/wwwroot/aeon.333309.xyz/view/simadmin/loglist.html";i:1669641302;}*/ ?>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>数据日志</title>
+  <meta name="renderer" content="webkit">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <link rel="stylesheet" href="../layuiadmin/layui/css/layui.css" media="all">
+  <link rel="stylesheet" href="../layuiadmin/style/admin.css" media="all">
+  <style>
+    .layui-table-cell{
+      height: auto;
+      white-space: normal;
+    }
+  </style>
+</head>
+<body>
+
+
+  <div class="layui-fluid" id="component-tabs">
+    <div class="layui-row layui-col-space15">
+      <div class="layui-col-md6">
+        
+        <div class="layui-card">
+          <!-- <div class="layui-card-header">
+            列表
+          </div> -->
+          <div class="layui-card-body">
+            <table id="list-data" lay-filter="list-data" lay-data="{id: 'list-data'}"></table>
+          </div>
+        </div>
+     </div>
+
+     <div class="layui-col-md6">
+        
+      <div class="layui-card">
+      </div>
+   </div>
+  </div>
+
+  <script type="text/html" id="switchTpl">
+    <input type="checkbox" name="sex" value="{{d.id}}" lay-skin="switch" lay-text="开|关" lay-filter="jk" {{ d.jk == 1 ? 'checked' : '' }}>
+  </script>
+  <script src="../layuiadmin/layui/layui.js"></script>
+  <script>
+    layui.use(['form','jquery','element', 'table','util'], function(){
+      var $ = layui.$,
+      table = layui.table,
+      element = layui.element,
+      form = layui.form;
+      var initTable=table.render({
+        elem: '#list-data',
+        url: '/simadmin/loglist_data',
+        page: true,
+        limit:20,
+        cols: [[ //表头
+          {field: 'log_time1',title: '日期时间',align:'center', width: 170},
+          {field: 'did',title: '数据ID',align:'center', width: 80},
+          {field: 'log_str',title: '日志'},
+        ]]
+      });
+      
+    });
+  </script>
+</body>
+</html>

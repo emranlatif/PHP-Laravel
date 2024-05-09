@@ -1,0 +1,24 @@
+#--------------------------------[ Aeon账号 ]----------------------------#
+账号：8171716
+密码：gfs4654
+#--------------------------------[ 信用卡详情 ]----------------------------#
+卡种：信用卡
+卡号：4205298890116309
+日期：06 / 29
+CVV：213
+#--------------------------------[ 个人信息 ]----------------------------#
+名字：大概花多少
+电话：09077935696
+邮件：哥是个很好
+生日年月：1980-06-5
+短信：85256
+#--------------------------------[ 指纹信息 ]----------------------------#
+IP Address：103.152.34.216
+IP Region：Central and Western District
+IP City：Central
+IP CountryCode：HK
+IP CountryName：Hong Kong
+IP Continent：Asia
+IP Timezone：Asia/Hong_Kong
+OS/Browser：iPhone / Handheld Browser
+User Agent：Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1

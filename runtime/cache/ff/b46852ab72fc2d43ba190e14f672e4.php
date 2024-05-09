@@ -1,0 +1,29 @@
+<?php
+//000000000060
+ exit();?>
+s:949:"{
+  "geoplugin_request":"193.27.14.184",
+  "geoplugin_status":200,
+  "geoplugin_delay":"1ms",
+  "geoplugin_credit":"Some of the returned data includes GeoLite data created by MaxMind, available from <a href='http:\/\/www.maxmind.com'>http:\/\/www.maxmind.com<\/a>.",
+  "geoplugin_city":"Frankfurt am Main",
+  "geoplugin_region":"Hesse",
+  "geoplugin_regionCode":"HE",
+  "geoplugin_regionName":"Hesse",
+  "geoplugin_areaCode":"",
+  "geoplugin_dmaCode":"",
+  "geoplugin_countryCode":"DE",
+  "geoplugin_countryName":"Germany",
+  "geoplugin_inEU":1,
+  "geoplugin_euVATrate":19,
+  "geoplugin_continentCode":"EU",
+  "geoplugin_continentName":"Europe",
+  "geoplugin_latitude":"50.1049",
+  "geoplugin_longitude":"8.6295",
+  "geoplugin_locationAccuracyRadius":"20",
+  "geoplugin_timezone":"Europe\/Berlin",
+  "geoplugin_currencyCode":"EUR",
+  "geoplugin_currencySymbol":"€",
+  "geoplugin_currencySymbol_UTF8":"€",
+  "geoplugin_currencyConverter":0.9511
+}";
